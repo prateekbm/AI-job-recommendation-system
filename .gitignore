@@ -1,0 +1,5 @@
+venv/
+data/job_descriptions.csv
+src/model/
+__pycache__/
+.ipynb_checkpoints/
